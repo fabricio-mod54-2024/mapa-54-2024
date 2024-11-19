@@ -5,3 +5,5 @@ Atividade MAPA, módulo 54/2024
 Olá, sou Fabrício Dias Nascimento, tenho 24 anos e estou cursando Engenharia de software.
 ## Disciplina
 Tópicos especiais em Engenharia de Software
+## Plataforma
+Esta plataforma é o GitHub
